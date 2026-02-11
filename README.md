@@ -12,6 +12,6 @@ The Dockerfile should contain a single instruction to print "Hello, Captain!" to
 solution to devops projects in : https://roadmap.sh/projects/basic-dockerfile
 
 
-#How to run
+# How to run
 
 docker run hello-captain  
